@@ -14,7 +14,8 @@ The matching should cover the entire input string (not partial).
 
 5. [[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)] Given a string `S`, you are allowed to convert it to a palindrome by adding characters in front of it. Find and return the shortest palindrome you can find by performing this transformation.
 
-6. [[yelp movie]
+6. 
+[yelp movie]
 题目是：给一串movie，假定每个movie都是一个小时，并且都在整点播放；给你一个List的movies，让你安排播放时间，如果没有答案throw一个exception。
 
 
