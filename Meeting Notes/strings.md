@@ -17,10 +17,15 @@ The matching should cover the entire input string (not partial).
 6. [[yelp movie]
 题目是：给一串movie，假定每个movie都是一个小时，并且都在整点播放；给你一个List的movies，让你安排播放时间，如果没有答案throw一个exception。
 
+
 比如
 电影A: 14, 15, 16, 17
+
 电影B: 14, 15, 16
-电影C: 14, 15.1point3acres缃�
-电影D: 14, 15, 17. from
+
+电影C: 14, 15
+
+电影D: 14, 15, 17. 
+
 返回一个解就行，比如 A 14, B 16, C 15, D 17。 如果你要 A 14, B 15, 后面 C就没法看了。
 
